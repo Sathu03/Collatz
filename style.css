@@ -1,0 +1,22 @@
+
+
+.sidebar{
+    width:200px;
+    height: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    background-color: grey;
+
+}
+
+.cont{
+    height: 100%;
+    display:block;
+    margin-left:200px
+}
+
+#content{
+    height:100%;
+    width:100%;
+}
