@@ -1,22 +1,14 @@
-
-
-.sidebar{
-    width:200px;
-    height: 100%;
-    position: fixed;
-    top: 0;
-    left: 0;
-    background-color: grey;
-
+body{
+    background-color: #3D424C;
 }
 
-.cont{
-    height: 100%;
-    display:block;
-    margin-left:200px
+.container{
+    width: 800px;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    position: absolute;
+    text-align:center;
+    color:white;
 }
 
-#content{
-    height:100%;
-    width:100%;
-}
